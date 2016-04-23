@@ -1,0 +1,7 @@
+HD 0102      2016-04-01
+Warren 1            Warren              MI
+Warren 2            Warren              MI
+Warren 3            Warren              MI
+Rochester 1         Rochester           MI
+Rochester 2         Rochester           MI
+T 0005
